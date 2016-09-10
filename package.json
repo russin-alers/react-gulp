@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "React-Redux starter",
   "main": "index.js",
-  "repository": "git@github.com:russin-alers/react-redux-boilerplate.git",
+  "repository": "git@github.com:russin-alers/react-gulp.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
-    "test:watch": "npm run test -- --watch"
   },
   "author": "",
   "license": "ISC",
